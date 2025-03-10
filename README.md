@@ -1,8 +1,7 @@
 # budget_buddy
 
 ## Current Status
-✅ Frontend development in progress
-❌ Backend development yet to start  
+✅ Frontend development in progress | ❌ Backend development yet to start  
 
 ---
 
