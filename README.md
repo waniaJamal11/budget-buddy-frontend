@@ -1,16 +1,28 @@
 # budget_buddy
 
-A new Flutter project.
+## Current Status
+✅ Frontend development in progress 
+❌ Backend development yet to start  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+**Frontend:**  
+- Flutter (Dart)  
 
-A few resources to get you started if this is your first Flutter project:
+**Backend:**  
+- Spring Boot (Java)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Database:**  
+- PostgreSQL (Planned)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Features (Planned)
+- Basic UI design
+- Add new expense  
+- View expense summary  
+- User authentication  
+- Data persistence using Spring Boot and PostgreSQL  
+- Monthly expense report generation  
+
